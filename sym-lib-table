@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "relay-module-light")(type "KiCad")(uri "${KIPRJMOD}/relay-module-light.kicad_sym")(options "")(descr ""))
+  (lib (name "relay-module-light")(type "KiCad")(uri "${KIPRJMOD}/symbols/relay-module-light.kicad_sym")(options "")(descr ""))
 )

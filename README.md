@@ -8,7 +8,7 @@ SPHA six-channel relay/light-output module.
 - `relay-module-light.kicad_sch` — top-level schematic
 - `relay-module-light.kicad_pcb` — PCB layout
 - Additional `.kicad_sch` files — hierarchical schematic sheets
-- `3D models/` — 3D models
+- `models/` — project-specific 3D and mechanical models
 
 ## Working with the project
 

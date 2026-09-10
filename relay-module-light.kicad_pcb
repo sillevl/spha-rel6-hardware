@@ -10141,7 +10141,7 @@
 			(uuid "4442690d-9b69-4174-8cf3-6558497a4ad5")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -10152,7 +10152,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -11030,7 +11030,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -11408,7 +11408,7 @@
 			(uuid "9499293a-cd55-48ec-ac81-089d6420ded7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -11419,7 +11419,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -11797,7 +11797,7 @@
 			(uuid "54ca81fa-1311-45a3-8c17-91c18b05ca51")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -11808,7 +11808,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -12186,7 +12186,7 @@
 			(uuid "7d5e2b96-7633-41da-b9aa-d521b580b95c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -12197,7 +12197,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -12686,7 +12686,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -13737,7 +13737,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/CDRH127_470M.step"
+		(model "${KIPRJMOD}/models/CDRH127_470M.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14424,7 +14424,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -14999,7 +14999,7 @@
 			(uuid "23241814-1e6d-4a09-8a84-15a5d30b996e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -15010,7 +15010,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -16803,7 +16803,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -17181,7 +17181,7 @@
 			(uuid "dd49bb41-332e-4696-833c-d232e0448b63")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(offset
 				(xyz -25.25 -1 -4.75)
 			)
@@ -17192,7 +17192,7 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/G5RL_1_E_HR.step"
+		(model "${KIPRJMOD}/models/G5RL_1_E_HR.step"
 			(offset
 				(xyz 0 0 9.5)
 			)
@@ -18382,7 +18382,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -18860,7 +18860,7 @@
 			(uuid "9c23c0af-4f0b-4ac0-aacb-3b9571b51d3c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D models/DG130-7.5-02P-14-00AH.STEP"
+		(model "${KIPRJMOD}/models/DG130-7.5-02P-14-00AH.STEP"
 			(offset
 				(xyz -3.75 5.65 0)
 			)
@@ -18871,7 +18871,7 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3D models/95152.stp"
+		(model "${KIPRJMOD}/models/95152.stp"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
